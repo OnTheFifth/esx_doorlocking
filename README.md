@@ -6,9 +6,8 @@ Basic doorlock script i edited with animation for unlocking and locking the door
 
 
 
-# Bugs or Issues
-Please report to my discord: https://discord.gg/gmAcpDU
+# Personal Discord
 
+Talk about coding, updates on new and streams, first look on new stuff.
 
-# Coming Soon
-- "locking" "unlocking" waits for the doors
+https://discord.gg/gDzfnm8
